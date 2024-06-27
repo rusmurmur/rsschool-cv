@@ -33,3 +33,19 @@ A motivated and dedicated Junior Frontend Developer with web application develop
 
 ---
 
+## Code Example
+```javascript
+// Function to filter an array of numbers and return only even numbers
+function filterEvenNumbers(numbers) {
+  return numbers.filter(number => number % 2 === 0);
+}
+
+// Example of using
+const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+const evenNumbers = filterEvenNumbers(numbers);
+
+console.log(evenNumbers); // [2, 4, 6, 8, 10]
+```
+
+---
+
