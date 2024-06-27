@@ -59,3 +59,8 @@ console.log(evenNumbers); // [2, 4, 6, 8, 10]
 
 ---
 
+## Languages
+
+- **Russian** - native speaker.
+- **English** - A2 (B1 in process…)
+
