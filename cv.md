@@ -1,7 +1,3 @@
-[rsschool-cv](https://github-rusmurmur.github.io/rsschool-cv/cv)
-
----
-
 # Ruslan Mursalov
 
 ## Contact Info
