@@ -1,4 +1,4 @@
-[rsschool-cv](https://github.com/rusmurmur/rsschool-cv)
+[rsschool-cv](https://github-rusmurmur.github.io/rsschool-cv/cv)
 
 ---
 
