@@ -49,3 +49,13 @@ console.log(evenNumbers); // [2, 4, 6, 8, 10]
 
 ---
 
+## Education
+
+### **Software Engineer**
+#### Chelyabinsk State University | 2024 - Present
+- Study of algorithms, data structures, programming and web development
+- Implementation of course projects on the creation of web applications and databases
+- Participation in student hackathons and programming contests
+
+---
+
