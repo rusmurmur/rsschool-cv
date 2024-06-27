@@ -11,3 +11,10 @@
 - **GitHub**: [Ruslan Mursalov](https://github.com/rusmurmur)
 
 ---
+
+## About Me
+
+A motivated and dedicated Junior Frontend Developer with web application development experience. I have good knowledge of HTML, CSS, JavaScript and modern frameworks. I strive to create high-quality and user-oriented code.
+
+---
+
