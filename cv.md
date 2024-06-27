@@ -22,7 +22,7 @@ A motivated and dedicated Junior Frontend Developer with web application develop
 
 ### **Technical skills**
 - **Programming languages**: HTML, CSS, JavaScript, TypeScript
-- **- **Frameworks and libraries**: React, Redis, Node.js
+- **Frameworks and libraries**: React, Redis, Node.js
 - **Development Tools**: Git, Webpack, Babel
 - **Methodologies**: Agile, Scrum
 
