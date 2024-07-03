@@ -1,0 +1,32 @@
+{
+  "name": "rsschool-cv",
+  "version": "1.0.0",
+  "description": "My resume project from RS School",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:html": "linthtml '**/*.html' --config .linthtmlrc",
+    "lint:css": "stylelint '**/*.css' --config .stylelintrc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rusmurmur/rsschool-cv.git"
+  },
+  "keywords": [
+    "resume",
+    "cv",
+    "RSS"
+  ],
+  "author": "Mursalov Ruslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rusmurmur/rsschool-cv/issues"
+  },
+  "homepage": "https://github.com/rusmurmur/rsschool-cv#readme",
+  "devDependencies": {
+    "@linthtml/linthtml": "^0.9.6",
+    "linthtml-config-htmlacademy": "^1.0.25",
+    "stylelint": "^16.6.1",
+    "stylelint-config-htmlacademy": "^4.2.3"
+  }
+}
